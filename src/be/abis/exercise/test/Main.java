@@ -8,6 +8,7 @@ public class Main {
         p.setName("Tim");
         System.out.println(p.getName());
         System.out.println("Edited from github");
+        System.out.println("New Branch added");
         System.out.println("Causing merge requirement from master");
     }
 }
