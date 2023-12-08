@@ -7,5 +7,6 @@ public class Main {
         Person p = new Person();
         p.setName("Tim");
         System.out.println(p.getName());
+        System.out.println("Edited from github");
     }
 }
